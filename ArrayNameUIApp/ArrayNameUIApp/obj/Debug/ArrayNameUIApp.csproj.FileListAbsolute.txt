@@ -1,0 +1,9 @@
+D:\asp.net\gorom\ArrayNameUIApp\ArrayNameUIApp\bin\Debug\ArrayNameUIApp.exe.config
+D:\asp.net\gorom\ArrayNameUIApp\ArrayNameUIApp\bin\Debug\ArrayNameUIApp.exe
+D:\asp.net\gorom\ArrayNameUIApp\ArrayNameUIApp\bin\Debug\ArrayNameUIApp.pdb
+D:\asp.net\gorom\ArrayNameUIApp\ArrayNameUIApp\obj\Debug\ArrayNameUIApp.csprojResolveAssemblyReference.cache
+D:\asp.net\gorom\ArrayNameUIApp\ArrayNameUIApp\obj\Debug\ArrayNameUIApp.Properties.Resources.resources
+D:\asp.net\gorom\ArrayNameUIApp\ArrayNameUIApp\obj\Debug\ArrayNameUIApp.csproj.GenerateResource.Cache
+D:\asp.net\gorom\ArrayNameUIApp\ArrayNameUIApp\obj\Debug\ArrayNameUIApp.exe
+D:\asp.net\gorom\ArrayNameUIApp\ArrayNameUIApp\obj\Debug\ArrayNameUIApp.pdb
+D:\asp.net\gorom\ArrayNameUIApp\ArrayNameUIApp\obj\Debug\ArrayNameUIApp.ArrayUI.resources

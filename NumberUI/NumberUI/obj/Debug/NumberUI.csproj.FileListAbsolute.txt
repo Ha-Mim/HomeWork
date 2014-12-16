@@ -1,0 +1,9 @@
+D:\asp.net\gorom\NumberUI\NumberUI\bin\Debug\NumberUI.exe.config
+D:\asp.net\gorom\NumberUI\NumberUI\obj\Debug\NumberUI.csprojResolveAssemblyReference.cache
+D:\asp.net\gorom\NumberUI\NumberUI\obj\Debug\NumberUI.Number.resources
+D:\asp.net\gorom\NumberUI\NumberUI\obj\Debug\NumberUI.Properties.Resources.resources
+D:\asp.net\gorom\NumberUI\NumberUI\obj\Debug\NumberUI.csproj.GenerateResource.Cache
+D:\asp.net\gorom\NumberUI\NumberUI\bin\Debug\NumberUI.exe
+D:\asp.net\gorom\NumberUI\NumberUI\bin\Debug\NumberUI.pdb
+D:\asp.net\gorom\NumberUI\NumberUI\obj\Debug\NumberUI.exe
+D:\asp.net\gorom\NumberUI\NumberUI\obj\Debug\NumberUI.pdb
